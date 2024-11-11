@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello World;;\n");
+  printf("Git Merge 완료!\n");
   return 0;
 }

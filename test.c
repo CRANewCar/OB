@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("Goodbyeeee!\n");
+	printf("this is version 1.0!\n");
 	return 0;
 }
